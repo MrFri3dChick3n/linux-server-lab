@@ -1,5 +1,11 @@
 # Linux Server Lab
 
+Hands-on homelab where I practice Linux administration, server setup, troubleshooting, and security.
+
+---
+
+# Linux Server Lab
+
 ## Setup
 - Ubuntu Server in VirtualBox
 - SSH access configured
@@ -29,3 +35,8 @@ Fail2ban blocked my IP after multiple failed login attempts.
 
 ### Lesson learned
 Always whitelist your own IP before testing security tools.
+
+## Future improvements
+- Add monitoring tools
+- Automate tasks with bash scripts
+- Simulate more incidents
